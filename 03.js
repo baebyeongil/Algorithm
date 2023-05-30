@@ -22,11 +22,9 @@ function solution (strings, n) {
     }
 
     console.log(strings)
-
-    return
 }
 
-var strings = ["san", "bfd", "car"]
+var strings = ["szn", "bfd", "car"]
 var n = 1
 
 solution(strings, n)
